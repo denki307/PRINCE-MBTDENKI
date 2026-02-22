@@ -1,6 +1,6 @@
 aiofiles
 aiohttp
-asyncio 
+asyncio
 beautifulsoup4
 dnspython
 ffmpeg-python
@@ -26,3 +26,4 @@ youtube-search
 youtube-search-python
 youtube_dl==2021.12.17
 git+https://github.com/yt-dlp/yt-dlp
+ntgcalls
