@@ -26,4 +26,4 @@ youtube-search
 youtube-search-python
 youtube_dl==2021.12.17
 git+https://github.com/yt-dlp/yt-dlp
-ntgcalls
+ntgcalls==0.0.6
