@@ -1,3 +1,17 @@
+# -----------------------------------------------
+# 🔸 StrangerMusic Project
+# 🔹 Developed & Maintained by: Shashank Shukla (https://github.com/itzshukla)
+# 📅 Copyright © 2022 – All Rights Reserved
+#
+# 📖 License:
+# This source code is open for educational and non-commercial use ONLY.
+# You are required to retain this credit in all copies or substantial portions of this file.
+# Commercial use, redistribution, or removal of this notice is strictly prohibited
+# without prior written permission from the author.
+#
+# ❤️ Made with dedication and love by ItzShukla
+# -----------------------------------------------
+
 import re
 from os import getenv
 from dotenv import load_dotenv
@@ -12,10 +26,10 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "SHIVANSHDEVS")
-BOT_USERNAME = getenv("BOT_USERNAME", "SapnaMusicRobot")
-BOT_NAME = getenv("BOT_NAME", "SAPNA")
-ASSUSERNAME = getenv("ASSUSERNAME", "KHWAAISH_HOON")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "DENKI1234")
+BOT_USERNAME = getenv("BOT_USERNAME", "ZafiraaMusicBot")
+BOT_NAME = getenv("BOT_NAME", "ZAFIRA")
+ASSUSERNAME = getenv("ASSUSERNAME", "MUSIC_BOT_WORLD")
 
 # MongoDB
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -28,19 +42,20 @@ OWNER_ID = int(getenv("OWNER_ID", 6762113050))
 # Heroku
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
+DEEP_API = getenv("DEEP_API")
 
 # Git
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/denki307/PRINCE-MBTDENKI")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/denki307/PRINCE-DENKI")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MUSIC_BOT_WORLD")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Jana_Nayagan_Tamil_chat")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ISHU_FaN_CluB")
 
 # YT-API Get from @AmShashank on tg
-YOUR_API_KEY = getenv("YOUR_API_KEY", "")
-YOUR_API_URL = getenv("YOUR_API_URL", "")
+YOUR_API_KEY = getenv("YOUR_API_KEY", "xbit__Hxcrwz8RaxaZFJFxzbWCUNjEf7SsIUd")
+YOUR_API_URL = getenv("YOUR_API_URL", "https://tgapi.xbitcode.com")
 
 # Assistant settings
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
@@ -82,10 +97,10 @@ DEBUG_IGNORE_LOG = True
 
 ###### IMAGE URLS ######
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/t18g0v.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/t18g0v.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/t18g0v.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/t18g0v.jpg"
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/b61227af05544deb76a34.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://telegra.ph/file/7bb907999ea7156227283.jpg")
+PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/13afb9ee5c5da17930f1e.png"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/13afb9ee5c5da17930f1e.png"
 STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
