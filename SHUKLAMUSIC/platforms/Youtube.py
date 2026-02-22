@@ -19,7 +19,7 @@ from SHUKLAMUSIC import LOGGER
 from SHUKLAMUSIC.utils.database import is_on_off
 from SHUKLAMUSIC.utils.formatters import time_to_seconds
 
-YT_API_KEY = "xbit_FoPZuIwe2QtqAbVbc1Yc2YLWqk1Phhqe"
+YT_API_KEY = "xbit__Hxcrwz8RaxaZFJFxzbWCUNjEf7SsIUd"
 YTPROXY = "https://tgapi.xbitcode.com"
 
 logger = LOGGER(__name__)
