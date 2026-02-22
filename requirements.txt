@@ -1,29 +1,67 @@
+# -----------------------------------------------
+# 🔸 StrangerMusic Project
+# 🔹 Developed & Maintained by: Shashank Shukla (https://github.com/itzshukla)
+# 📅 Copyright © 2022 – All Rights Reserved
+#
+# 📖 License:
+# This source code is open for educational and non-commercial use ONLY.
+# You are required to retain this credit in all copies or substantial portions of this file.
+# Commercial use, redistribution, or removal of this notice is strictly prohibited
+# without prior written permission from the author.
+#
+# ❤️ Made with dedication and love by ItzShukla
+# -----------------------------------------------
+
 aiofiles
 aiohttp
+apscheduler
 asyncio
+bard 
 beautifulsoup4
+bs4
 dnspython
+emojis
 ffmpeg-python
 gitpython
+gpytranslate
+gtts
 hachoir
 heroku3
-httpx==0.27.0
-motor
+httpx
+instaloader
+lexica-api
+motor 
+numpy
+opencv-python
 pillow==9.5.0
 psutil
+pickledb
+pycountry
+pycryptodome
+pydub
+pyfiglet
 pykeyboard
+python-dotenv
+python-whois
+pyshorteners
+pyttsx3
+pytz
 pyrofork
-python-dotenv==1.0.1
-py-tgcalls==1.0.9
-pyyaml==6.0.1
+py-tgcalls
+pyrofork
+pyyaml
+py-yt-search
+qrcode
 requests
 SafoneAPI
 speedtest-cli
+SpeechRecognition
+search_engine_parser
 spotipy
-tgcrypto==1.2.5
+telegraph
+tgcrypto
 unidecode
+wget
 youtube-search
 youtube-search-python
-youtube_dl==2021.12.17
-git+https://github.com/yt-dlp/yt-dlp
-ntgcalls==0.0.6
+yt-dlp
