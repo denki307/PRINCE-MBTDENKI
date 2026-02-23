@@ -46,9 +46,6 @@ python-whois
 pyshorteners
 pyttsx3
 pytz
-pyrofork
-py-tgcalls==1.0.9
-ntgcalls==1.0.7
 pyyaml==6.0.1
 py-yt-search
 qrcode
@@ -58,7 +55,6 @@ speedtest-cli
 SpeechRecognition
 search_engine_parser
 spotipy
-spotipy
 telegraph
 tgcrypto==1.2.5
 unidecode
@@ -66,3 +62,6 @@ wget
 youtube-search
 youtube-search-python
 yt-dlp
+
+kurigram
+pytgcalls
