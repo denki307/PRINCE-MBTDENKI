@@ -48,7 +48,7 @@ pyttsx3
 pytz
 pyrofork
 py-tgcalls==1.0.9
-ntgcalls==0.0.6
+ntgcalls==1.0.7
 pyyaml==6.0.1
 py-yt-search
 qrcode
